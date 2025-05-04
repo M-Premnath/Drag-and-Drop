@@ -9,8 +9,8 @@ This project showcases a **drag-and-drop UI** built using **HTML**, **CSS**, and
 
 ## 📸 Screenshot
 
-![Drag and Drop Screenshot](![image](https://github.com/user-attachments/assets/c2a1421b-619c-4863-89ac-f844cbe7ffc5)
-)
+ ![Drag and Drop Screenshot 📸](https://github.com/user-attachments/assets/c2a1421b-619c-4863-89ac-f844cbe7ffc5)
+
 
 ---
 
